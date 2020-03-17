@@ -1,1 +1,1 @@
-hello welcome to GIT
+first file edu1 modified1
